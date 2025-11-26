@@ -420,7 +420,7 @@ cat tp53_guides.csv
 ### Quality
 - ✅ 20+ unit tests covering core functions
 - ✅ Example-driven documentation
-- ✅ MIT license, open source
+- ✅ Open source
 - ✅ No crashes on valid inputs
 
 ---

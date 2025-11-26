@@ -270,9 +270,9 @@ Current priorities for contributions:
 
 Be respectful and inclusive. We're all here to advance CRISPR research and make guide design accessible to everyone.
 
-## License
+## Authors
 
-By contributing, you agree that your contributions will be licensed under the MIT License.
+This work was developed by Siavash Ghaffari. Contributions are welcome and appreciated.
 
 ## Questions?
 

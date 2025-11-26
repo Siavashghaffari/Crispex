@@ -315,9 +315,9 @@ Crispex: AI-Powered CRISPR Guide Design
 https://github.com/yourname/crispex
 ```
 
-## License
+## Authors
 
-MIT License - see LICENSE file for details
+This work was developed by Siavash Ghaffari. For any questions, feedback, or additional information, please feel free to reach out. Your input is highly valued and will help improve and refine this pipeline further.
 
 ## Contributing
 

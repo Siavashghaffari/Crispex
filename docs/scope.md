@@ -345,9 +345,8 @@ Output: brca1_guides.csv, brca1_guides.json, brca1_plot.png
 
 ---
 
-## Compliance and Licensing
+## Compliance and Data Usage
 
-- **Open source license**: MIT (permissive, research-friendly)
 - **Model licenses**: Ensure compatibility with open-source distribution
 - **Database usage**: Comply with Ensembl/NCBI terms of service
 - **Export controls**: Document any therapeutic design considerations

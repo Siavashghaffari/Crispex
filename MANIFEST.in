@@ -1,6 +1,5 @@
 # Include important documentation
 include README.md
-include LICENSE
 include CONTRIBUTING.md
 include pyproject.toml
 include setup.cfg

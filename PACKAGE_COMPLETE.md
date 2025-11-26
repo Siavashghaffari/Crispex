@@ -50,7 +50,6 @@ Crispex/                          # Project repository
 ├── MANIFEST.in                   # Package data inclusion
 ├── README.md                     # Complete documentation
 ├── CONTRIBUTING.md               # Contribution guide
-├── LICENSE                       # MIT License
 └── .gitignore
 
 ```
@@ -155,7 +154,6 @@ print(f"Best guide: {top_guide['guide_sequence']}")
 ✅ **Professional Package**
 - src/ layout (industry standard)
 - Proper configuration (pyproject.toml, setup.cfg)
-- MIT License
 - Contributing guide
 - Example scripts
 - GitHub Actions CI/CD
@@ -233,5 +231,5 @@ The Crispex package is **fully functional**, **professionally structured**, **we
 
 **Built:** 2025-01-24
 **Python:** 3.9+
-**License:** MIT
+**Author:** Siavash Ghaffari
 **Status:** Production-Ready ✅
