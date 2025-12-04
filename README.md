@@ -306,27 +306,12 @@ If Ensembl API times out:
 - Try again (automatic retry logic included)
 - Ensembl may be experiencing high load
 
-## Citation
-
-If you use Crispex in your research, please cite:
-
-```
-Crispex: AI-Powered CRISPR Guide Design
-https://github.com/yourname/crispex
-```
 
 ## Authors
 
 This work was developed by Siavash Ghaffari. For any questions, feedback, or additional information, please feel free to reach out. Your input is highly valued and will help improve and refine this pipeline further.
 
-## Contributing
 
-Contributions are welcome! Please see CONTRIBUTING.md for guidelines.
-
-## Support
-
-- **Issues**: https://github.com/yourname/crispex/issues
-- **Documentation**: https://github.com/yourname/crispex#readme
 
 ## Acknowledgments
 
